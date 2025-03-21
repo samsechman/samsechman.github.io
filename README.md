@@ -1,6 +1,6 @@
-# Modern Website Template
+# Samuel Sechman - Personal Website
 
-A responsive, modern website template built with HTML, CSS, and JavaScript. This template features a clean design, smooth animations, and mobile-friendly layout.
+A responsive, modern personal website for Samuel Sechman built with HTML, CSS, and JavaScript. This website features a clean design, smooth animations, and mobile-friendly layout.
 
 ## Features
 
